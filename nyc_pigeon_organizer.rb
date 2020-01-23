@@ -23,7 +23,6 @@ def nyc_pigeon_organizer(data)
   new_pigeon_data = get_attribute(new_pigeon_data, data, :color)
   new_pigeon_data = get_attribute(new_pigeon_data, data, :lives)
   
-  
   new_pigeon_data
 end
 
